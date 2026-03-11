@@ -88,7 +88,7 @@ sudo apt install -y \
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/youruser/apguard.git
+git clone https://github.com/jomboi8/apguard.git
 cd apguard
 ```
 
