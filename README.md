@@ -638,7 +638,7 @@ docker run -d -p 8080:8080 webgoat/goat-and-wolf
 
 ## Legal Notice
 
-> **APGUARD sends real HTTP requests with attack payloads to the target URL.**
+> **It sends real HTTP requests with attack payloads to the target URL.**
 > Only use APGUARD against systems you own or have explicit written permission to test.
 > Unauthorized scanning is illegal in most jurisdictions.
 > The authors accept no liability for misuse.
