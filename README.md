@@ -4,6 +4,14 @@
 > Detects SQL Injection, Cross-Site Scripting, Local File Inclusion, and Misconfigurations.
 
 ---
+> Samples images 
+1. ![A screenshot of the project](./samplesimages/1.png)
+2. ![A screenshot of the project](./samplesimages/2.png)
+3. ![A screenshot of the project](./samplesimages/3.png)
+4. ![A screenshot of the project](./samplesimages/4.png)
+5. ![A screenshot of the project](./samplesimages/5.png)
+6. ![A screenshot of the project](./samplesimages/6.png)
+
 
 ## Table of Contents
 
@@ -202,14 +210,14 @@ When you click **Launch Scan**:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                      APGUARD                                 │
+│                      APGUARD                                │
 │                                                             │
 │  ┌───────────────────┐        ┌───────────────────────────┐ │
 │  │  Wails Desktop    │  OR    │  Standalone HTTP Server   │ │
 │  │  main.go          │        │  cmd/server/main.go       │ │
 │  │  (native window)  │        │  :9272                    │ │
 │  └────────┬──────────┘        └──────────┬────────────────┘ │
-│           │                              │                   │
+│           │                              │                  │
 │           └──────────────┬───────────────┘                  │
 │                          │                                  │
 │              ┌───────────▼────────────┐                     │
