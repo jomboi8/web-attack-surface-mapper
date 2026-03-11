@@ -1,4 +1,4 @@
-# APGUARD — Web Application Security Scanner
+# Web Application Security Scanner
 
 > A professional desktop + web vulnerability scanner built with Go, Wails v2, SQLite, and Vanilla JS.
 > Detects SQL Injection, Cross-Site Scripting, Local File Inclusion, and Misconfigurations.
